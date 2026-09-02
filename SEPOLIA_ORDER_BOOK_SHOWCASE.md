@@ -10,8 +10,8 @@ It also includes short authorization and settlement-bound demonstrations.
 |---|---|
 | Network | Ethereum Sepolia (`11155111`) |
 | Factory | [`0xa0DBa24F937E94d5fDE97CBA401a80e7570D1f67`](https://eth-sepolia.blockscout.com/address/0xa0DBa24F937E94d5fDE97CBA401a80e7570D1f67) |
-| Order book | [`0x1D0fEc5b3d24af2b33A5107019871CA38F4f92D0`](https://eth-sepolia.blockscout.com/address/0x1D0fEc5b3d24af2b33A5107019871CA38F4f92D0) |
-| Base token | [`0xD8d3947a5E73d7C6e305875ddF809dcB90eabf95`](https://eth-sepolia.blockscout.com/address/0xD8d3947a5E73d7C6e305875ddF809dcB90eabf95) (`TREX01`, 6 decimals) |
+| Order book | [`0xd9d06b54B5c24e1e14F89ad1fEF0bd8BF45Ac083`](https://eth-sepolia.blockscout.com/address/0xd9d06b54B5c24e1e14F89ad1fEF0bd8BF45Ac083) |
+| Base token | [`0x598fA0aE2f1cCB38642531ecf3C4ed35f7937dfb`](https://sepolia.etherscan.io/token/0x598fA0aE2f1cCB38642531ecf3C4ed35f7937dfb) (`TREX01`, 6 decimals) |
 | Quote token | `0x756EfF2C697835bE39ea6D4B897305A207374cBE` (`FakeUSDC`, 6 decimals) |
 | Initial showcase price | 1 base = 1 quote |
 
